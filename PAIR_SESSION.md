@@ -5,8 +5,8 @@
 **Repository:** repo-p13-23343082  
 **Ketua:** Rendi Aigo Brandon  
 **NIM Ketua:** 23343082  
-**Anggota 2:** [Isi nama teman]  
-**NIM Anggota 2:** [Isi NIM teman]  
+**Anggota 2:** Muhammad Rafki  
+**NIM Anggota 2:** 23343078  
 **Media Kolaborasi:** VS Code Live Share  
 **Media Komunikasi:** Discord / Slack  
 **Tanggal Sesi:** [Isi tanggal sesi]  
