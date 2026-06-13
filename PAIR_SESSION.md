@@ -160,9 +160,9 @@ Agar kedua anggota terlihat kontribusinya, commit dapat dibagi seperti berikut:
 | Commit | Penanggung Jawab | Pesan Commit |
 |---|---|---|
 | 1 | Rendi Aigo Brandon | `init flutter mvvm project structure` |
-| 2 | [Nama teman] | `add item model and api service` |
+| 2 | Muhammad Rafki | `add item model and api service` |
 | 3 | Rendi Aigo Brandon | `add item viewmodel with provider state` |
-| 4 | [Nama teman] | `add item list view and documentation` |
+| 4 | Muhammad Rafki | `add item list view and documentation` |
 
 ---
 
