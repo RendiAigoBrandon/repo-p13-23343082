@@ -10,6 +10,8 @@ enum ViewState {
   error,
 }
 
+// ViewModel bertugas mengelola state, mengambil data dari service,
+// dan memberi notifikasi ke View ketika data berubah.
 class ItemViewModel extends ChangeNotifier {
   final ItemService _service = ItemService();
 
