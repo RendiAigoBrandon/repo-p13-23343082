@@ -4,8 +4,8 @@
 
 **Nama Ketua:** Rendi Aigo Brandon  
 **NIM Ketua:** 23343082  
-**Nama Anggota 2:** [Isi nama teman]  
-**NIM Anggota 2:** [Isi NIM teman]  
+**Nama Anggota 2:** Muhammad Rafki  
+**NIM Anggota 2:** 23343078 
 **Mata Kuliah:** Mobile Programming Lanjutan  
 **Pertemuan:** 13  
 **Topik:** Design Patterns: MVC, MVVM, dan Clean Architecture di Flutter  
